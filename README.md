@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF66,100:001100&height=200&section=header&text=Eduardo%20-%20My%20GitHub%20%7C%20QA%20%26%20Data%20Analyst%20👋&fontSize=35&fontColor=FFFFFF&animation=fadeIn" alt="banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF66,100:000000&height=200&section=header&text=Eduardo%20-%20My%20GitHub%20%7C%20QA%20and%20Data%20Analyst&fontSize=35&fontColor=FFFFFF&animation=fadeIn" alt="banner">
 </p>
 
 ---
