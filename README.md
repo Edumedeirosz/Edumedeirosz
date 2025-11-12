@@ -1,20 +1,20 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,100:000000&height=200&section=header&text=Eduardo%20|%20QA%20&%20Data%20Analyst%20👋&fontSize=35&fontColor=ffffff&animation=fadeIn" alt="banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,100:000000&height=200&section=header&text=Eduardo - Meu Github %20|%20QA%20&%20Data%20Analyst%20👋&fontSize=35&fontColor=ffffff&animation=fadeIn" alt="banner">
 </p>
 
 ---
 
-# 👋 Olá, sou o Eduardo;
+# Olá, sou o Eduardo;
 
-### 🎯 **Foco em Análise de Qualidade (QA)**
+### **Foco em Análise de Qualidade (QA)**
 
-🌱 Atualmente focado em **QA**, **SQL**, **API**, **Cypress**, **JavaScript** e outras ferramentas de automação.  
-💡 Focado em garantir que a qualidade dos sistemas seja boa, enquanto continuo a aprimorar minhas habilidades.
+*  Atualmente focado em **QA**, **SQL**, **API**, **Cypress**, **JavaScript** e outras ferramentas de automação.  
+* Focado em garantir que a qualidade dos sistemas seja boa, enquanto continuo a aprimorar minhas habilidades.
 
 ---
 
-## 🚀 O que estou trabalhando
+## * O que estou estudando;
 
 - 🧪 **Aprendizado em QA:** Estudando técnicas de teste, automação e integração contínua para garantir qualidade e performance das aplicações.  
 - ⚙️ **Automação de Testes:** Estudando **Cypress** e **JavaScript** para criar testes automatizados de ponta a ponta. (E2E). 
@@ -22,7 +22,7 @@
   
 ---
 
-## 🛠️ Ferramentas & Tecnologias
+## * Ferramentas & Tecnologias;
 
 | Categoria | Ferramentas |
 |------------|-------------|
@@ -38,16 +38,16 @@
 
 ---
 
-# 👋 Hi, I'm Eduardo;
+# * Hi, I'm Eduardo;
 
-### 🎯 **Focused on Quality Assurance (QA)**
+### * **Focused on Quality Assurance (QA)**
 
-🌱 Currently focused on **QA**, **SQL**, **API**, **Cypress**, **JavaScript**, and other automation tools.  
-💡 Dedicated to ensuring software quality while continuously improving my skills.
+* Currently focused on **QA**, **SQL**, **API**, **Cypress**, **JavaScript**, and other automation tools.  
+* Dedicated to ensuring software quality while continuously improving my skills.
 
 ---
 
-## 🚀 What I'm Working On
+## * What I'm Working On
 
 - 🧪 **Learning QA:** Studying testing techniques, automation, and continuous integration to ensure high-quality and reliable applications.  
 - ⚙️ **Test Automation:** Learning **Cypress** and **JavaScript** to create end-to-end automated tests (E2E).  
@@ -55,7 +55,7 @@
 
 ---
 
-## 🛠️ Tools & Technologies
+## * Tools & Technologies
 
 | Category | Tools |
 |-----------|--------|
