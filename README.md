@@ -1,15 +1,15 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF66,100:000000&height=200&section=header&text=Eduardo%20-%20My%20GitHub%20%7C%20QA%20and%20Data%20Analyst&fontSize=35&fontColor=FFFFFF&animation=fadeIn" alt="banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF66,100:000000&height=200&section=header&text=Eduardo%20-%20My%20GitHub%20%7C%20QA%20and%20Suport%20Analyst&fontSize=35&fontColor=FFFFFF&animation=fadeIn" alt="banner">
 </p>
 
 ---
 
 # Olá, sou o Eduardo;
 
-### **Foco em Análise de Qualidade (QA)**
+### **Foco em Suporte e QA**
 
-*  Atualmente focado em **QA**, **SQL**, **API**, **Cypress**, **JavaScript** e outras ferramentas de automação.  
+*  Atualmente focado em **QA**, **SQL**, **API**, **Cypress**, **JavaScript** e outras ferramentas que possam ser úteis para suporte, qualidade ou automação.  
 * Focado em garantir que a qualidade dos sistemas seja boa, enquanto continuo a aprimorar minhas habilidades.
 
 ---
@@ -40,9 +40,9 @@
 
 # * Hi, I'm Eduardo;
 
-### * **Focused on Quality Assurance (QA)**
+### * **Focused on Quality Assurance (QA) and Suport **
 
-* Currently focused on **QA**, **SQL**, **API**, **Cypress**, **JavaScript**, and other automation tools.  
+* Currently focused on **QA**, **SQL**, **API**, **Cypress**, **JavaScript**, and other tools that will be useful for suport and quality.  
 * Dedicated to ensuring software quality while continuously improving my skills.
 
 ---
