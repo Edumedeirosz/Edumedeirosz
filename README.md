@@ -21,7 +21,6 @@
 - ⚙️ **RPA e Automação:** explorando scripts e ferramentas para automatizar tarefas repetitivas e fluxos de trabalho.
 - 🐍 **Python e Dados:** utilizando Python e Pandas para manipulação, tratamento e análise de dados.
 - 💻 **JavaScript:** desenvolvendo conhecimentos em scripts e automação.
-- 🧪 **QA e Testes:** aprendendo automação de testes com Cypress e ferramentas de validação de software.
 - 💾 **SQL e APIs:** trabalhando com consultas a bancos de dados e integração entre sistemas.
 
 ---
@@ -30,9 +29,8 @@
 
 | Categoria | Ferramentas |
 |---|---|
-| **RPA & Automação** | Python · JavaScript · Automação de processos |
+| **RPA & Automação** | Python · JavaScript · Automação de processos · Playwright |
 | **Dados** | Pandas · Matplotlib · Jupyter Notebook |
-| **QA & Testes** | Cypress · Selenium · TestNG · Postman |
 | **Bancos de Dados** | MySQL · PostgreSQL · SQL |
 | **Outros** | Git · GitHub · VS Code |
 
@@ -60,7 +58,6 @@
 - ⚙️ **RPA & Automation:** Exploring scripts and tools to automate repetitive tasks and workflows.
 - 🐍 **Python & Data:** Using Python and Pandas for data manipulation, cleaning, and analysis.
 - 💻 **JavaScript:** Developing skills in scripting and automation.
-- 🧪 **QA & Testing:** Learning test automation with Cypress and software validation tools.
 - 💾 **SQL & APIs:** Working with database queries and system integration.
 
 ---
@@ -69,9 +66,8 @@
 
 | Category | Tools |
 |---|---|
-| **RPA & Automation** | Python · JavaScript · Process Automation |
+| **RPA & Automation** | Python · JavaScript · Process Automation · Playwright |
 | **Data** | Pandas · Matplotlib · Jupyter Notebook |
-| **QA & Testing** | Cypress · Selenium · TestNG · Postman |
 | **Databases** | MySQL · PostgreSQL · SQL |
 | **Others** | Git · GitHub · VS Code |
 
