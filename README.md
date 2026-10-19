@@ -1,72 +1,85 @@
+ 
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF66,100:000000&height=200&section=header&text=Eduardo%20-%20My%20GitHub%20%7C%20QA%20and%20Suport%20Analyst&fontSize=35&fontColor=FFFFFF&animation=fadeIn" alt="banner">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF66,100:000000&height=200&section=header&text=Eduardo%20-%20RPA%20%26%20Automation&fontSize=35&fontColor=FFFFFF&animation=fadeIn" alt="banner">
 </p>
 
 ---
 
-# Olá, sou o Eduardo;
+# Olá, sou o Eduardo!
 
-### **Foco em Suporte e QA**
+### **Foco em RPA, Automação e Qualidade de Software**
 
-*  Atualmente focado em **QA**, **SQL**, **API**, **Cypress**, **JavaScript** e outras ferramentas que possam ser úteis para suporte, qualidade ou automação.  
-* Focado em garantir que a qualidade dos sistemas seja boa, enquanto continuo a aprimorar minhas habilidades.
+- ⚙️ Interessado em **RPA**, automação de processos e desenvolvimento de soluções para otimizar tarefas.
+- 🐍 Explorando **Python**, **JavaScript**, SQL e ferramentas de automação e manipulação de dados.
+- 🧪 Aprendendo **QA**, testes de software e integração entre sistemas por meio de APIs.
+- 🚀 Buscando desenvolver soluções práticas que aumentem a eficiência e a confiabilidade dos processos.
 
 ---
 
-## * O que estou estudando;
+## O que estou estudando
 
-- 🧪 **Aprendizado em QA:** Estudando técnicas de teste, automação e integração contínua para garantir qualidade e performance das aplicações.  
-- ⚙️ **Automação de Testes:** Estudando **Cypress** e **JavaScript** para criar testes automatizados de ponta a ponta. (E2E). 
-- 💾 **SQL e APIs:** Aprofundando meus conhecimentos em **SQL** e **APIs** para análise e integração entre sistemas.
-  
+- ⚙️ **RPA e Automação:** explorando scripts e ferramentas para automatizar tarefas repetitivas e fluxos de trabalho.
+- 🐍 **Python e Dados:** utilizando Python e Pandas para manipulação, tratamento e análise de dados.
+- 💻 **JavaScript:** desenvolvendo conhecimentos em scripts e automação.
+- 🧪 **QA e Testes:** aprendendo automação de testes com Cypress e ferramentas de validação de software.
+- 💾 **SQL e APIs:** trabalhando com consultas a bancos de dados e integração entre sistemas.
+
 ---
 
-## * Ferramentas & Tecnologias;
+## Ferramentas & Tecnologias
 
 | Categoria | Ferramentas |
-|------------|-------------|
-| **Testes & QA** | Cypress · JavaScript · Selenium · TestNG · Postman |
-| **Desenvolvimento & Dados** | Python · Pandas · Matplotlib · Seaborn · Jupyter Notebook |
-| **Banco de Dados** | MySQL · PostgreSQL |
-| **Outros** | Git/GitHub · VS Code |
+|---|---|
+| **RPA & Automação** | Python · JavaScript · Automação de processos |
+| **Dados** | Pandas · Matplotlib · Jupyter Notebook |
+| **QA & Testes** | Cypress · Selenium · TestNG · Postman |
+| **Bancos de Dados** | MySQL · PostgreSQL · SQL |
+| **Outros** | Git · GitHub · VS Code |
 
 ---
 
-📫 **Vamos nos conectar!**  
-💼 [LinkedIn](https://www.linkedin.com/in/eduardo-medeiros-da-paz-238b86335/) · 🧑‍💻 [GitHub](https://github.com/Edumedeirosz) · ✉️ [Email](eduardomedeirosdapaz@gmail.com)
+📫 **Vamos nos conectar!**
+
+💼 [LinkedIn](https://www.linkedin.com/in/eduardo-medeiros-da-paz-238b86335/) · 🧑‍💻 [GitHub](https://github.com/Edumedeirosz) · ✉️ [Email](mailto:eduardomedeirosdapaz@gmail.com)
 
 ---
 
-# * Hi, I'm Eduardo;
+# Hi, I'm Eduardo!
 
-### * **Focused on Quality Assurance (QA) and Suport **
+### **Focused on RPA, Process Automation and Software Quality**
 
-* Currently focused on **QA**, **SQL**, **API**, **Cypress**, **JavaScript**, and other tools that will be useful for suport and quality.  
-* Dedicated to ensuring software quality while continuously improving my skills.
-
----
-
-## * What I'm Working On
-
-- 🧪 **Learning QA:** Studying testing techniques, automation, and continuous integration to ensure high-quality and reliable applications.  
-- ⚙️ **Test Automation:** Learning **Cypress** and **JavaScript** to create end-to-end automated tests (E2E).  
-- 💾 **SQL and APIs:** Deepening my knowledge of **SQL** and **APIs** for data analysis and system integration.
+- ⚙️ Interested in **RPA**, process automation, and developing solutions to optimize repetitive tasks.
+- 🐍 Exploring **Python**, **JavaScript**, SQL, and tools for automation and data manipulation.
+- 🧪 Learning **QA**, software testing, and system integration through APIs.
+- 🚀 Looking to build practical solutions that improve process efficiency and reliability.
 
 ---
 
-## * Tools & Technologies
+## What I'm Working On
+
+- ⚙️ **RPA & Automation:** Exploring scripts and tools to automate repetitive tasks and workflows.
+- 🐍 **Python & Data:** Using Python and Pandas for data manipulation, cleaning, and analysis.
+- 💻 **JavaScript:** Developing skills in scripting and automation.
+- 🧪 **QA & Testing:** Learning test automation with Cypress and software validation tools.
+- 💾 **SQL & APIs:** Working with database queries and system integration.
+
+---
+
+## Tools & Technologies
 
 | Category | Tools |
-|-----------|--------|
-| **Testing & QA** | Cypress · JavaScript · Selenium · TestNG · Postman |
-| **Development & Data** | Python · Pandas · Matplotlib · Seaborn · Jupyter Notebook |
-| **Databases** | MySQL · PostgreSQL |
-| **Others** | Git/GitHub · VS Code |
+|---|---|
+| **RPA & Automation** | Python · JavaScript · Process Automation |
+| **Data** | Pandas · Matplotlib · Jupyter Notebook |
+| **QA & Testing** | Cypress · Selenium · TestNG · Postman |
+| **Databases** | MySQL · PostgreSQL · SQL |
+| **Others** | Git · GitHub · VS Code |
 
 ---
 
-📫 **Let's Connect!**  
+📫 **Let's Connect!**
+
 💼 [LinkedIn](https://www.linkedin.com/in/eduardo-medeiros-da-paz-238b86335/) · 🧑‍💻 [GitHub](https://github.com/Edumedeirosz) · ✉️ [Email](mailto:eduardomedeirosdapaz@gmail.com)
 
 ---
